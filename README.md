@@ -1,6 +1,7 @@
 # Conventional Commits 1.0.0
  ```
-chore: cleanup your code base or something
+pizza: any type is allowed, but needs to be conventional
 
-A mustn't change the version as well
+The official spec states 10 types, e.g. test, refactor, ci.
+Your team can agree on mor types, but be sparce with it.
  ```
