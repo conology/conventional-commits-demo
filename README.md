@@ -1,7 +1,11 @@
 # Conventional Commits 1.0.0
  ```
-pizza: any type is allowed, but needs to be conventional
+docs!: show breaking changes
 
-The official spec states 10 types, e.g. test, refactor, ci.
-Your team can agree on mor types, but be sparce with it.
+Breaking changes can be announced one of two ways:
+- Use a ! after your type/scope
+- Use the footer token BREAKING CHANGE
+You don't need to do both.
+
+BREAKING CHANGE: This is actual a bad example. Why?
  ```
