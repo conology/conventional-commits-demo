@@ -1,6 +1,6 @@
 # Conventional Commits 1.0.0
  ```
-docs: update the docs
+chore: cleanup your code base or something
 
-Thisn mustn't change the code version
+A mustn't change the version as well
  ```
