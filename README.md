@@ -1,6 +1,6 @@
 # Conventional Commits 1.0.0
- ```
-docs(jira): we can integrate issues via footer as well
 
-issue: TH-80
- ```
+This project serves as a living example of conventional commits.
+
+To get an introduction, start at the initial commit and work your way
+either through the commit log (recommend) or through the README history.
