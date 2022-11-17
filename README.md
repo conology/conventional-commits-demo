@@ -1,6 +1,6 @@
 # Conventional Commits 1.0.0
  ```
-feat: use feat, if in doubt
+fix: fix a bug with a bug fix :)
 
-Feat is also a good choice, if no other type fits your case
+This means a patch version bump in terms semantic versioning
  ```
