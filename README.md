@@ -1,6 +1,6 @@
 # Conventional Commits 1.0.0
  ```
-fix: fix a bug with a bug fix :)
+docs: update the docs
 
-This means a patch version bump in terms semantic versioning
+Thisn mustn't change the code version
  ```
